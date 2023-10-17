@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This project's main objective was to analyze a dataset containing information about products, sales, and profits within a supermarket chain across various cities and states, as well as the shipping methods used for each product across different states. The dataset was gotten from Tableau Dataset (public.tableau.com). 
+This project's main objective was to analyze a dataset containing information about products, sales, and profits within a supermarket chain across various cities and states, as well as the shipping methods used for each product across different states. The dataset was gotten from Tableau Dataset (public.tableau.com) and it contains 9,995 rows. 
 
 
 ## BUSINESS OBJECTIVES 
