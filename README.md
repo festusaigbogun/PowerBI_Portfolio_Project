@@ -26,7 +26,7 @@ Using Powerbi data model to create a relationship between the _ and _ tables.
 
 ## DATA VISUALIZATION 
 
-You can interact with the dashboard on this link..... 
+You can interact with the dashboard on this link [here](https://app.powerbi.com/groups/me/reports/80c6c377-d122-4459-97c7-9fc48f573d5c/ReportSection?experience=powerbi) 
 
 
 ## INSIGHTS 
