@@ -43,7 +43,7 @@ You can interact with the dashboard on this link.....
 
 6. In terms of discounts in the items in category, the Office supplies had the most discount for price of items followed by the Furniture then lastly the technology. 
 
-7.New York city had the most total sales and profit from the different items purchased followed by Los Angeles, Seattle, Philadelphia, then lastly San Francisco. 
+7. New York city had the most total sales and profit from the different items purchased followed by Los Angeles, Seattle, Philadelphia, then lastly San Francisco. 
 
 8. In the category, the technology had more total sales and profit compare to other two category remaining. The furniture had more sales than office supplies but had the lowest profits, while the office supplies had less sales than furniture but higher profits. 
 
@@ -64,5 +64,5 @@ You can interact with the dashboard on this link.....
 
 7. **Geographic Expansion**: Given that New York City leads in sales and profit, consider expanding marketing efforts in this region. Replicate successful strategies in other top-performing areas like Los Angeles, Seattle, and Philadelphia.
 
-8. **Category Emphasis**: Focus on Technology as it generates the highest sales and profit. For Furniture, explore ways to improve profit margins without compromising sales. For Office Supplies, consider strategies to increase sales even further, since it already has higher profits than Furniture
+8. **Category Emphasis**: Focus on Technology as it generates the highest sales and profit. For Furniture, explore ways to improve profit margins without compromising sales. For Office Supplies, consider strategies to increase sales even further, since it already has higher profits than Furniture. 
 
