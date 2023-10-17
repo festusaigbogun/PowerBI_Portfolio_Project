@@ -31,6 +31,8 @@ This project's main objective was to analyze a dataset containing information ab
 
 Using Powerbi data model to create a relationship between the Orders and Returns table.
 
+![](https://github.com/festusaigbogun/PowerBI_Portfolio_Project/blob/main/Image/PBIDesktop_dYOHpcimoE~2.png) 
+
 
 ## POWER QUERY 
 
