@@ -29,7 +29,7 @@ This project's main objective was to analyze a dataset containing information ab
 
 ## DATA MODELING 
 
-Using Powerbi data model to create a relationship between the _ and _ tables.
+Using Powerbi data model to create a relationship between the Orders and Returns table.
 
 
 ## POWER QUERY 
