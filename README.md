@@ -19,9 +19,22 @@ This project's main objective was to analyze a dataset containing information ab
 * Check for Sum of volume sales and profit by category 
 
 
+## SKILL DEMONSTRATED 
+
+* Data modeling 
+* Power query editor 
+* Data visualization 
+
+
+
 ## DATA MODELING 
 
 Using Powerbi data model to create a relationship between the _ and _ tables.
+
+
+## POWER QUERY 
+
+Using Power query editor I ensure all columns are in the right data type. 
 
 
 ## DATA VISUALIZATION 
