@@ -41,7 +41,7 @@ Using Power query editor I ensure all columns are in the right data type.
 
 ## DATA VISUALIZATION 
 
-You can interact with the dashboard on the link [here](https://app.powerbi.com/groups/me/reports/80c6c377-d122-4459-97c7-9fc48f573d5c/ReportSection?experience=powerbi). 
+You can interact with the dashboard on the link [here](https://app.powerbi.com/view?r=eyJrIjoiZWQzMmVlMTktN2EwYS00YzAyLTgxMzctNTcxNWU0OWNhMGQ1IiwidCI6ImEzYTkwNTYyLTQxYjEtNDBlYy05ZWE4LTUwOTZhMTNmZjI0YiJ9). 
 
 ![](https://github.com/festusaigbogun/PowerBI_Portfolio_Project/blob/main/Image/PBIDesktop_LGxKspWYif~2.png) 
 
